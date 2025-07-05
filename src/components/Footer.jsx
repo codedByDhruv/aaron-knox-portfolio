@@ -20,7 +20,7 @@ function Footer() {
             href="https://linkedin.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-gray-500 hover:bg-amber-700 transition"
+            className="text-gray-500 hover:text-amber-700 transition"
           >
             <FaLinkedin />
           </a>
@@ -28,7 +28,7 @@ function Footer() {
             href="https://github.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-gray-500 hover:bg-amber-700 transition"
+            className="text-gray-500 hover:text-amber-700 transition"
           >
             <FaGithub />
           </a>
@@ -36,7 +36,7 @@ function Footer() {
             href="https://twitter.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-gray-500 hover:bg-amber-700 transition"
+            className="text-gray-500 hover:text-amber-700 transition"
           >
             <FaTwitter />
           </a>
